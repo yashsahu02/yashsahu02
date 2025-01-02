@@ -1,12 +1,5 @@
-# 👋 Hi, I’m Yash Sahu
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsahu02&label=Profile%20views&color=0e75b6&style=flat" alt="yashsahu02" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+# 👋 Hi, I’m Yash Sahu
 
 ## 👩‍💻 About Me
 Hello! I am Yash, an enthusiastic **Machine Learning Engineer** currently pursuing a B.Tech in Computer Science with a specialization in Artificial Intelligence and Machine Learning (AIML). I am passionate about building innovative solutions using data-driven approaches and have hands-on experience in developing machine learning models and web applications.
