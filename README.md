@@ -1,4 +1,6 @@
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsahu02&label=Profile%20views&color=0e75b6&style=flat" alt="yashsahu02" /> </p>
+-->
 
 # 👋 Hi, I’m Yash Sahu
 
