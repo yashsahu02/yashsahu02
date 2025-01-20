@@ -24,7 +24,7 @@ Hello! I am Yash, an enthusiastic **Machine Learning Engineer** currently pursui
 </a>
 
 <a href='https://www.kaggle.com/yashsahu02'>
-  <img style= "width: 30px; height: 30px; margin-right: 30px;" src='https://w7.pngwing.com/pngs/210/701/png-transparent-kaggle-brands-icon-thumbnail.png'>
+  <img style= "width: 30px; height: 30px; margin-right: 30px;" src='https://icons.iconarchive.com/icons/fa-team/fontawesome-brands/512/FontAwesome-Brands-Kaggle-icon.png'>
 </a>
 
 
