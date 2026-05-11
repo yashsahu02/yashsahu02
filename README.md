@@ -1,43 +1,41 @@
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsahu02&label=Profile%20views&color=0e75b6&style=flat" alt="yashsahu02" /> </p>
--->
-
-# 👋 Hello World, I’m Yash Sahu
-
-## 👩‍💻 About Me
-Hello! I am Yash, an enthusiastic **Machine Learning Engineer** currently pursuing a B.Tech in Computer Science with a specialization in Artificial Intelligence and Machine Learning (AIML). I am passionate about building innovative solutions using data-driven approaches and have hands-on experience in developing machine learning models and web applications.
-
-## 🛠️ Skills
-- **Programming Languages:** Python, C++, HTML, CSS, JavaScript
-- **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Scikit-Learn, Matplotlib, Seaborn, Flask, Streamlit
-- **Version Control:** Git, GitHub
-- **Machine Learning Expertise:** Classification, Regression, Data Preprocessing, Model Optimization
-
-
-
-<a href='https://www.linkedin.com/in/yashsahu02' style="margin-right: 30px; text-decoration: none;">
-  <img style= "width: 30px; height: 30px; margin-right: 30px;" src='https://drive.google.com/file/d/1R-BfQ2hBblfZr4MfRA0YEsMBgxT_9MWy/view?usp=sharing' alt="Linkedin Logo">
-</a>
-
-<a href='https://www.instagram.com/_yash_sahu_02/' style="text-decoration: none;">
-  <img style= "width: 30px; height: 30px; margin-right: 30px;" src='https://camo.githubusercontent.com/cd6de81833b9d2f409fda7041274601ec15a3de2004ae99a4a8c021d552bc823/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667' alt="Instagram Logo">
-</a>
-
-<a href='https://www.kaggle.com/yashsahu02' style="text-decoration: none;">
-  <img style= "width: 30px; height: 30px; margin-right: 30px;" src='https://drive.google.com/file/d/1dyH9uNYZHnqsysgG5wuYP40epnV7c8Q7/view?usp=drive_link' alt="Kaggle Logo">
-</a>
-
+# Hello World, I'm Yash 👋
 
 <!--
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashsahu02)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/yashsahu02)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_yash_sahu_02/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sahu.yash0205@gmail.com)
 -->
 
-<!---
-yashsahu02/yashsahu02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yashsahu02"><img style="width: 30px; height: 30px;" src="./assets/Linkedin.png" alt="Linkedin"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_yash_sahu_02/"><img style="width: 30px; height: 30px;" src="./assets/Instagram.png" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/yashsahu02"><img style="width: 30px; height: 30px;" src="./assets/kaggle.png" alt="Kaggle"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- <a href="mailto:sahu.yash0205@gmail.com"><img style="width: 30px; height: 30px;" src="./assets/Gmail.png" alt="Gmail"></a> -->
+</div>
+
+---
+
+I'm a **GenAI & AIML Developer** passionate about building intelligent solutions using cutting-edge AI technologies.
+I love turning complex data into impactful, real-world applications.
+
+---
+
+## 💻 Skills
+
+### Programming Language
+Python
+
+### AI/ML
+Machine Learning, Deep Learning, Generative AI
+
+### Libraries & Frameworks
+Streamlit, Scikit-learn, Pandas, NumPy, Matplotlib
+
+### Tools
+Git, GitHub
+
+---
+
+Regards,  
+**Yash Sahu**
